@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gasperdesign&show_icons=true&locale=en" alt="gasperdesign" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gasperdesign&" alt="gasperdesign" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=gasperdesign&theme=dark&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
