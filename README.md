@@ -1,5 +1,5 @@
-<h1 align="center">Hey there, I'm Alex (lso known as Gasper (that's my superhero name🦸)</h1>
-<h1 align="center">I am a Product Designer with a passion for coding, bringing the design to reality.🔥</h1>
+<h3 align="start">Hey there, I'm Alex (lso known as Gasper (that's my superhero name🦸)</h3>
+<p align="start">I am a Product Designer with a passion for coding, bringing the design to reality.🔥</p>
 
 - 🌱 I’m currently learning **Javascript, 3D Design, AR/VR**
 
