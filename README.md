@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript, 3D Design, AR/VR**
 
-- 👨‍💻 All of my projects are available at [https://dribbble.com/gasperdesign](https://dribbble.com/gasperdesign)
+- 👨‍💻 All of my projects are available at <p><a href="https://dribbble.com/gasperdesign">Visit W3Schools.com!</a></p>
 
 - 📫 How to reach me **gasperagency@gmail.com**
 
