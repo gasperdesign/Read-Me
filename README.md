@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gasperagency@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alexandru-stefan-302b5476/](https://www.linkedin.com/in/alexandru-stefan-302b5476/)
+- 📄 Let's connect on <a href=https://www.linkedin.com/in/alexandru-stefan-302b5476/> LinkedIn <a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
