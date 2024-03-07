@@ -1,4 +1,4 @@
-<h3 align="start">Hey there, I'm Alex (or call me Gasper) that's my superstar name</h3>
+<h3 align="start">Hey there, I'm Alex (Gasper),
 <p align="start">I am a Product Designer with a passion for coding, bringing the design to reality.🔥</p>
 
 - 🌱 I’m currently learning **Javascript, 3D Design, AR/VR**
