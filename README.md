@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alex (Gasper)</h1>
-<h3 align="center">Product Designer with a passion for coding, bringing the design to reality.🔥</h3>
+<h1 align="left">Hi 👋, I'm Alex (Gasper)</h1>
+<h3 align="left">Product Designer with a passion for coding, bringing the design to reality.🔥</h3>
 
 - 🌱 I’m currently learning **Javascript, 3D Design, AR/VR**
 
