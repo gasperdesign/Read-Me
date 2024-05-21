@@ -2,9 +2,7 @@
 <p align="start">I am a Product Designer with a passion for coding, bringing the design to reality.🔥</p>
 
 - 🌱 I’m currently learning **Javascript, 3D Design, AR/VR**
-
-- 👨‍💻 All of my projects are available at <a href="[https://dribbble.com/gasperdesign](https://bento.me/gasperdesign)">
-
+  
 - 📄 Let's connect on <a href=https://www.linkedin.com/in/alexandru-stefan-302b5476/> LinkedIn <a>
 
 <h3 align="left">Connect with me:</h3>
