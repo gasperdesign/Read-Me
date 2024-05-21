@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://dribbble.com/gasperdesign">Gasper Design </a>
 
-- 📫 How to reach me <a href="mailto:gasperagency@gmail.com"> Ketchup with me!</a>
+- 📫 How to reach me <a href="mailto:gasperagency@gmail.com?subject=SweetWords&body=Please send me a copy of your new program!">Email Me</a>
 
 - 📄 Let's connect on <a href=https://www.linkedin.com/in/alexandru-stefan-302b5476/> LinkedIn <a>
 
